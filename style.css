@@ -14,7 +14,6 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -88,13 +87,12 @@ main {
 /* on the aside element, we had the same attribute  so I consolidated in one class*/
 aside {
     position: relative; 
-    margin-right: 20px;
-    margin-bottom: 32px;
+    margin-right: 5px;
+    margin-bottom: 0px;
     padding: 20px;
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
     font-family: ‘Gill Sans’, ‘Gill Sans MT’, Calibri, ‘Trebuchet MS’, sans-serif;
     background-color: #2589BD;
     color: #FFFFFF;
@@ -113,10 +111,6 @@ aside {
 .services img {
     max-height: 200px;
 }
-.services img {
-    max-height: 200px; 
-}
-
 /* } I removed class .font-size and margin bottom form online search-engine-optimization, online reputation management
 and also the class social media marketing because it was the default */
 
